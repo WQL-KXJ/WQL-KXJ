@@ -1,4 +1,4 @@
-## 🐱‍👓空想家 <---> You are welcome to come✨✨✨
+## 🐱‍👓空想家 (●'◡'●) You are welcome to come✨✨✨
 **本/人🏆:** 
 - ⏳会一点编码💤会一点需求💦会一点业务💨会一点架构💫
 - 🎎立志成为中二之光🎡
@@ -7,7 +7,7 @@
 
 **个人网站：https://wql.luoqin.ltd/**
 
-## 统计
+## 统计啊(p≧w≦q)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WQL-KXJ&show_icons=true&theme=radical)
 
