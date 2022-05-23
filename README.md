@@ -7,7 +7,7 @@
 
 **个人网站：https://wql.luoqin.ltd/**
 
-## 统计啊(p≧w≦q)
+## 统计(p≧w≦q)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WQL-KXJ&show_icons=true&theme=radical)
 
