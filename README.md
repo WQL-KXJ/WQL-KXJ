@@ -1,5 +1,5 @@
 ## 🐱‍👓空想家 (●'◡'●) You are welcome to come✨✨✨
-**本/人🏆:** 
+**Self🏆:** 
 - 🛷 I’m currently learning on Node.js,webpack and Vue development
 - 💬 Ask me about anything tech related, I am happy to help
 - 🧿 Aspire to develop a quality open source framework
@@ -7,8 +7,7 @@
 
 **个人网站：https://wql.luoqin.ltd/**
 
-## 统计(p≧w≦q)
-
+## Stat(p≧w≦q)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WQL-KXJ&show_icons=true&theme=radical)
 
