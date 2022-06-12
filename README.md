@@ -5,9 +5,9 @@
 - 🧿 Aspire to develop a quality open source framework
 - 🃏 Efforts are being made to improve code quality
 
-**个人网站：https://wql.luoqin.ltd/**
+**Personal website(个人网站)：https://wql.luoqin.ltd/**
 
-## Statistics(p≧w≦q)
+## Info(p≧w≦q)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WQL-KXJ&show_icons=true&theme=radical)
 
