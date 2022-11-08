@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WQL-KXJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![lala](https://img-blog.csdnimg.cn/b1bfc472765d44318512a948b32ee5b9.gif#pic_center?=200x)
+![lala](https://img-blog.csdnimg.cn/b1bfc472765d44318512a948b32ee5b9.gif#pic_center? =200x)
