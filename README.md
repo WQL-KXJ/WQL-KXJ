@@ -21,6 +21,17 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Don't restrict yourself. We can do unlimited things with limited life
 </b> :)</em>
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WQL-KXJ&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WQL-KXJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-192133?style=flat-square&logo=RabbitMQ&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
+![ContOS](https://img.shields.io/badge/-ContOS-192133?style=flat-square&logo=centos&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WQL-KXJ&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WQL-KXJ&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
+</a>
