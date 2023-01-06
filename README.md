@@ -42,7 +42,7 @@
 ![ContOS](https://img.shields.io/badge/-ContOS-192133?style=flat-square&logo=centos&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-192133?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
-
+![......](https://img.shields.io/badge/-......-192133?style=flat-square&logo=...&logoColor=white)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WQL-KXJ&count_private=true&show_icons=true&theme=radical" />
 </a>
