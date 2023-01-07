@@ -33,6 +33,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=Spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/-Springboot-192133?style=flat-square&logo=Springboot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-192133?style=flat-square&logo=SpringSecurity&logoColor=white)
+![Consul](https://img.shields.io/badge/-Consul-192133?style=flat-square&logo=consul&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-192133?style=flat-square&logo=Swagger&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-192133?style=flat-square&logo=vue.js&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-192133?style=flat-square&logo=Node.js&logoColor=white)
