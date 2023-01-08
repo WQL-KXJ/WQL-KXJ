@@ -1,5 +1,5 @@
 <h2> 🐱‍👓空想家 (●'◡'●) You are welcome to come <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/WQL-KXJ/WQL-KXJ/blob/main/loficity.gif" width="400">
+<img align='right' src="https://github.com/WQL-KXJ/WQL-KXJ/blob/main/giphy.gif" width="400">
 <p><em>personal website(个人网站)： <a href="https://wql.luoqin.ltd/">空想家</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
