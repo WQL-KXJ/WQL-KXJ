@@ -14,8 +14,7 @@
 - 🧿Desire to develop a high-quality open source project
 - 💬 Ask me about anything tech related, I am happy to help
 
-<!-- <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=WQL-KXJ&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
- -->
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=WQL-KXJ&column=7&margin-w=15&margin-h=15&no-frame=true" />
 </p>
