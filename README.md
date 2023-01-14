@@ -14,9 +14,11 @@
 - 🧿Desire to develop a high-quality open source project
 - 💬 Ask me about anything tech related, I am happy to help
 
-<p align="center">
+<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=WQL-KXJ&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
+
+<!-- <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=WQL-KXJ&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+</p> -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Don't restrict yourself. We can do unlimited things with limited life
 </b> :)</em>
